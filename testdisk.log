@@ -1,0 +1,30 @@
+
+
+Wed Nov 27 10:59:21 2024
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.15.0-122-generic (#132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024) x86_64
+Compiler: GCC 11.2
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.3
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop9 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/loop0 - 64 MB / 61 MiB - 126760 sectors (RO), sector size=512
+Disk /dev/loop1 - 66 MB / 63 MiB - 130448 sectors (RO), sector size=512
+Disk /dev/loop2 - 77 MB / 73 MiB - 151296 sectors (RO), sector size=512
+Disk /dev/loop3 - 138 MB / 131 MiB - 270296 sectors (RO), sector size=512
+Disk /dev/loop4 - 46 MB / 44 MiB - 90720 sectors (RO), sector size=512
+Disk /dev/loop5 - 91 MB / 87 MiB - 178256 sectors (RO), sector size=512
+Disk /dev/loop6 - 40 MB / 38 MiB - 79520 sectors (RO), sector size=512
+Disk /dev/loop7 - 146 MB / 139 MiB - 285808 sectors (RO), sector size=512
+Disk /dev/loop8 - 93 MB / 89 MiB - 183096 sectors (RO), sector size=512
+Disk /dev/nvme0n1 - 42 GB / 40 GiB - CHS 40960 64 32, sector size=512
+Disk /dev/nvme1n1 - 2199 GB / 2048 GiB - CHS 2097152 64 32, sector size=512
+
+Partition table type defaults to Intel
+Media is opened in read-only.
+
+TestDisk exited normally.
